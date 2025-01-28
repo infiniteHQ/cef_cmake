@@ -45,4 +45,4 @@ This software is distributed under the MIT Software License.
 
 See accompanying file LICENSE.txt or copy [here](https://opensource.org/licenses/MIT).
 
-Copyright &copy; 2019 [Borislav Stanimirov](http://github.com/iboB)
+Copyright &copy; 2019-2025 [Borislav Stanimirov](http://github.com/iboB), [Diego Moreno](https://github.com/diegomrno)
